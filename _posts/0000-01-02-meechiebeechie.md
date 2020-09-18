@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Satur ventur non studit libentur
 Use the left arrow to go back!
 
